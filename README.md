@@ -10,7 +10,7 @@ I am a team player, with a strong commitment to customer service and excellence 
 Java / Python / C++ / HTML / CSS / Git / Microsoft Azure / GCP / Jupyter Notebook
 
 #### About Me : 
-- :school: I am currently a sophomore pursuing B.Tech in CSE. 
+- :school: I am currently a pre-final pursuing B.Tech in CSE. 
 - 🔭 I am Microsoft Certified : Azure Data Scientist Associate and AI Engineer, and have cracked all four Azure fundamentals (AI-900, DP-900, AZ-900, PL-900) 
 - 🌱 I'm on track for learning more about Artificial Intelligence, Computer Vision and the latest technologies that's out there. 
 - 💬 Feel free to reach out to me for general consulting, or discussions on the topics that sparks your interest in technology. 
