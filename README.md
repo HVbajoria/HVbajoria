@@ -1,19 +1,19 @@
 ### Hi there 👋, Harshavardhan Bajoria here
 <p align="center" width="100%">
-<img src ="https://github.com/HVbajoria/HVbajoria/blob/main/Software%20Developer.png" width="60%" height="50%">
+<img src ="https://ipfs.io/ipfs/bafybeieyamqmrt7xahztq6auufq6ur44373qbn3tlmd23tmd5w3h6qweku/Software Developer.png" width="60%" height="50%">
 </p>
 
-#### Who Am I ?
-I am a team player, with a strong commitment to customer service and excellence in quality standards who love to collaborate to build amazing innovations for future.
+#### Who Am I?
+I am a team player, with a strong commitment to customer service and excellence in quality standards who love to collaborate to build unique innovations for the   future.
 
 #### Skills: 
 Java / Python / C++ / HTML / CSS / Git / Microsoft Azure / GCP / Jupyter Notebook
 
 #### About Me : 
-- :school: I am currently a pre-final pursuing B.Tech in CSE. 
-- 🔭 I am Microsoft Certified : Azure Data Scientist Associate and AI Engineer, and have cracked all four Azure fundamentals (AI-900, DP-900, AZ-900, PL-900) 
-- 🌱 I'm on track for learning more about Artificial Intelligence, Computer Vision and the latest technologies that's out there. 
-- 💬 Feel free to reach out to me for general consulting, or discussions on the topics that sparks your interest in technology. 
+- :school: I am currently a final pursuing B.Tech in CSE. 
+- 🔭 I am Microsoft Certified: Azure Data Scientist Associate and AI Engineer and have cracked all four Azure fundamentals (AI-900, DP-900, AZ-900, PL-900) 
+- 🌱 I'm on track to learn more about Artificial Intelligence, Computer Vision, and the latest technologies that are out there. 
+- 💬 Feel free to contact me for general consulting or discussions on the topics that spark your interest in technology. 
 - 📫 You can email me at hvbajoria@hotmail.com. I'll try to respond as soon as possible! 
 - ⚡ Fun fact: I never get tired of innovating and learning each day. 
 </br>
