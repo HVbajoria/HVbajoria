@@ -46,8 +46,11 @@ I'm proud to be a **7x Microsoft Certified** professional. This journey has soli
 
 - **Microsoft Certified:** Azure Data Scientist Associate
 - **Microsoft Certified:** Azure AI Engineer Associate
+- **Microsoft Certified Educatior**
 - **Azure Fundamentals:** AI-900 | DP-900 | AZ-900
 - **Power Platform Fundamentals:** PL-900
+- **Google Cloud Digital Leader Certified**
+- GitHub Fundamentals Certified
 
 ---
 
@@ -64,9 +67,6 @@ I'm always open to discussing new technologies, interesting projects, or collabo
   </a>
   <a href="mailto:hvbajoria@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.kaggle.com/harshavardhanbajoria">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://www.instagram.com/harshavardhanbajoria/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
