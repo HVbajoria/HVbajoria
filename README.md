@@ -10,7 +10,7 @@ I am a team player, with a strong commitment to customer service and excellence 
 Java / Python / C++ / HTML / CSS / Git / Microsoft Azure / GCP / Jupyter Notebook
 
 #### About Me : 
-- :school: I am currently a final pursuing B.Tech in CSE. 
+- 👨‍💼: Building AI Products at Unstop. 
 - 🔭 I am Microsoft Certified: Azure Data Scientist Associate and AI Engineer and have cracked all four Azure fundamentals (AI-900, DP-900, AZ-900, PL-900) 
 - 🌱 I'm on track to learn more about Artificial Intelligence, Computer Vision, and the latest technologies that are out there. 
 - 💬 Feel free to contact me for general consulting or discussions on the topics that spark your interest in technology. 
