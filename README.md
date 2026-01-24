@@ -53,6 +53,8 @@ I'm proud to be a **7x Microsoft Certified** professional. This journey has soli
 - GitHub Fundamentals Certified
 
 ---
+### :star: **My GitHub Stats**
+[![HVbajoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvbajoria)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 **Let's Connect!**
 
