@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey there! I'm Harshavardhan Bajoria.
   </h1>
-  <h3>7x Microsoft Certified Cloud Native | Product-Driven | AI-Powered</h3>
+  <h3>7x Microsoft Certified Cloud Native | 5x Oracle Certified | 3x Google Certfified | AI-Product-Driven </h3>
 </div>
 
 ---
